@@ -401,6 +401,9 @@ export function Header() {
             style={{ position: 'var(--header-inner-position)' }}
           >
             <div className="relative flex gap-4">
+              <div className='flex flex-1 justify-start items-center'>
+                <a href="tel:4043146800" className='text-sky-500 sm:text-lg'>(404) 314-6800</a>
+              </div>
               {/* <div className="flex flex-1">
                 {!isHomePage && (
                   <AvatarContainer>
@@ -412,16 +415,16 @@ export function Header() {
                 <MobileNavigation className="pointer-events-auto md:hidden" />
                 <DesktopNavigation className="pointer-events-auto hidden md:block" />
               </div> */}
-              <div className="flex justify-end md:flex-1">
+              {/* <div className="flex justify-end md:flex-1">
                 <div className="pointer-events-auto">
                   <ModeToggle />
                 </div>
-              </div>
+              </div> */}
             </div>
           </Container>
         </div>
       </header>
-      {isHomePage && <div style={{ height: 'var(--content-offset)' }} />}
+      {/* {isHomePage && <div style={{ height: 'var(--content-offset)' }} />} */}
     </>
   )
 }
