@@ -247,7 +247,7 @@ function Photos() {
 }
 
 export default function Home({ articles }) {
-  const title = 'Massey Gutters'
+  const title = 'Massey Gutter Installation'
   const metaContent = [
     "Chris Massey opened Massey Gutter Installation way back in 1998. ",
     "Twenty five years in the business he has over seen tens of thousands of gutter installations all over metro Atlanta. ",
