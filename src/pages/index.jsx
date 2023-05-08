@@ -253,8 +253,8 @@ export default function Home({ articles }) {
     "Twenty five years in the business he has over seen tens of thousands of gutter installations all over metro Atlanta. ",
     "Specializing in 6\" aluminum seamless gutters with 3\" x 4\" downspouts in an assortment of colors.  Copper gutters. Commercial box gutters. Half round gutters with round downspouts. ",
     "Massey Gutter Installation carries a wide assortment of gutter covers that can fit any budget. ",
-    "Included in these systems is the Leaftech gutter cover which comes with a lifetime clogfree guarantee www.leaftechus com Massey Gutter Installation is fully insured.",
-    " Besides servicing home owners in metro Atlanta there are 70 different businesses ranging from roofing companies, paint contractors, builders and general contractors that choose Massey Gutter Installation to handle all thier gutter needs.",
+    "Included in these systems is the Leaftech gutter cover which comes with a lifetime clogfree guarantee www.leaftechus.com Massey Gutter Installation is fully insured.",
+    " Besides servicing home owners in metro Atlanta there are 70 different businesses ranging from roofing companies, paint contractors, builders and general contractors who choose Massey Gutter Installation to handle all thier gutter needs.",
     "Call Chris today for a free estimate 404 314 6800 Financing available"
   ].join("")
 
@@ -275,8 +275,8 @@ export default function Home({ articles }) {
             &nbsp;
             Specializing in 6&quot; aluminum seamless gutters with 3&quot; x 4&quot; downspouts in an assortment of colors. Copper gutters. Commercial box gutters. Half round gutters with round downspouts.
             Massey Gutter Installation carries a wide assortment of gutter covers that can fit any budget.
-            Included in these systems is the Leaftech gutter cover which comes with a lifetime clogfree guarantee <a href="https://leaftechus.com/" target='blank'>leaftechus</a> com Massey Gutter Installation is fully insured.
-            Besides servicing home owners in metro Atlanta there are 70 different businesses ranging from roofing companies, paint contractors, builders and general contractors that choose Massey Gutter Installation to handle all thier gutter needs.
+            Included in these systems is the Leaftech gutter cover which comes with a lifetime clogfree guarantee <a href="https://leaftechus.com/" target='blank'>www.leaftechus.com</a> com Massey Gutter Installation is fully insured.
+            Besides servicing home owners in metro Atlanta there are 70 different businesses ranging from roofing companies, paint contractors, builders and general contractors who choose Massey Gutter Installation to handle all thier gutter needs.
             <br />
             <br />
             Call Chris today for a free estimate <a href="tel:4043146800" className='text-sky-500'>(404) 314-6800</a> Financing available.
